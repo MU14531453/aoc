@@ -1,6 +1,3 @@
-import os
-os.chdir(r'c:\Users\uz\aoc\2015')
-
 with open('input8.txt', 'rb') as input:
     
     text = input.readlines()
